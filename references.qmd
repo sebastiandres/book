@@ -1,4 +1,21 @@
 # References {.unnumbered}
 
 ::: {#refs}
+Data Storytelling
+- "Storytelling with Data" de Cole Nussbaumer.
+- "Data Storytelling" de Nancy Duarte.
+- "Effective Data Storytelling" de Brent Dykes.
+- "Habla como un líder" de Julián Reyes.
+- "Storytelling salvaje" de Isra Bravo.
+- "Psico" de Paul Bloom.
+
+Visualizacion
+- Alberto Cairo.
+
+Storytelling
+- Storyworthy, Mathew Dicks.
+- Story wars, ?.
+- Make it stick, cheap chip.
+- 
+Otros
 :::
