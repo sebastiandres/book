@@ -1,0 +1,25 @@
+project:
+  type: book
+
+book:
+  title: "My Awesome Book"
+  author: "Norah Jones"
+  date: "11/2/2023"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  # pdf:
+  #   documentclass: scrreprt
+
+filters: 
+  - pyodide
+
+

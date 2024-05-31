@@ -1,0 +1,23 @@
+# Introduction
+
+This is a book created from markdown and executable code.
+
+See @knuth84 for additional discussion of literate programming.
+
+
+Python
+```{python}
+print('Hola mundo!')
+```
+
+.Python
+
+```{.python}
+print('Hola mundo!')
+```
+
+This is a pyodide-enabled code cell in a Quarto HTML document.
+
+```{pyodide-python}
+print('Hola mundo!')
+```
